@@ -1,0 +1,14 @@
+frmCodeLib = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+IDataObject = 0, 0, 0, 0, C
+CCodeItem = 0, 0, 0, 0, C
+CodeModule = 0, 0, 0, 0, C
+ctlCodeDetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ctlBookmarks = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CBookmark = 0, 0, 0, 0, C
+CSettings = 0, 0, 0, 0, C
+frmOptions = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAddBookmark = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CFileObject = 0, 0, 0, 0, C
+ctlFileDetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CWaitCursor = 0, 0, 0, 0, C
